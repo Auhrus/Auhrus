@@ -11,4 +11,7 @@
 [![Xbox Badge](https://img.shields.io/badge/-auhrus-107C10?style=for-the-badge&logo=xbox&logoColor=white)](http://live.xbox.com/Profile?Gamertag=auhrus)
 
 
-[![auhrus github stats](https://github-readme-stats.vercel.app/api?username=auhrus&show_icons=true&theme=vue-dark&locale=de)](https://github.com/anuraghazra/github-readme-stats)
+![auhrus github stats](https://github-readme-stats.vercel.app/api?username=auhrus&show_icons=true&theme=vue-dark&rank_icon=github)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Auhrus&theme=vue-dark&layout=compact)
+
+<!---![Streak Card: https://github.com/DenverCoder1/github-readme-streak-stats](http://github-readme-streak-stats.herokuapp.com?user=Auhrus&background=0D1117&border=ffffff&stroke=4c8eda&ring=4c8eda&fire=1f6fea&currStreakNum=c3d1d9&sideNums=ffffff&currStreakLabel=1f6fea&sideLabels=58a5fe&dates=ffffff)--->
