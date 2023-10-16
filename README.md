@@ -1,5 +1,6 @@
-# Hi <img src="https://github.com/rdavydov/rdavydov/blob/main/img/Waving%20Hand.gif?raw=true" alt="Waving Hand" width="25px">
+# Hi 👋
 #### Welcome to my Profile
+![Profile views counter](https://komarev.com/ghpvc/?username=auhrus&&style=flat)
 
 [![Reddit Badge](https://img.shields.io/badge/-auhrus-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Auhrus)
 [![YouTube Badge](https://img.shields.io/badge/-auhrus-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@auhrus)
@@ -13,5 +14,3 @@
 
 ![auhrus github stats](https://github-readme-stats.vercel.app/api?username=auhrus&show_icons=true&theme=vue-dark&rank_icon=github)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Auhrus&theme=vue-dark&layout=compact)
-
-<!---![Streak Card: https://github.com/DenverCoder1/github-readme-streak-stats](http://github-readme-streak-stats.herokuapp.com?user=Auhrus&background=0D1117&border=ffffff&stroke=4c8eda&ring=4c8eda&fire=1f6fea&currStreakNum=c3d1d9&sideNums=ffffff&currStreakLabel=1f6fea&sideLabels=58a5fe&dates=ffffff)--->
